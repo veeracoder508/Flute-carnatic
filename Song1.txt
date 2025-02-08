@@ -17,3 +17,9 @@ M M M, G R S N S S  }
 S N D, N S G R S N S}×2
 
 [Pallavi]
+
+|P P P P|P M,G G,,||  }
+|P P P D|P M,G G,,||  }×2
+|R G M G|R G R S Ņ²|| }
+|N² S R R|__SR||      }
+
