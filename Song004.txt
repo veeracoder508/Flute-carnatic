@@ -1,0 +1,18 @@
++-------+
+|Yamunai|
++-------+
+
+N N N  N N,D N S S,S S,|     }    
+R S R N,N N,N D N N D,;|| -I }×2
+R S R N,N N,N D S N N,;|| -II}
+i]M R M M,M M,M G P M,G R G||
+  N D N S R
+i]R, N D P M G,R S R G M|
+  R,P,M F R S
+iii]M R M M,M M M G P M,G R| ×2
+    M G R P  M G R M  G R S G  R S N D|
+    R, M G R S N D  N S D
+
+[First tow lines]
+
+---×---
